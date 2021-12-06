@@ -1,6 +1,6 @@
 # Yet-Another-File-System
-FUSE file system implemented 
 
+The FUSE file system implemented in C. 
 
 ## Usage 
 ```
